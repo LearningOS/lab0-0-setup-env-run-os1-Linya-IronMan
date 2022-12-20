@@ -1,7 +1,7 @@
 /*！
 
 本模块实现了 print 和 println 宏。
-
+将打印字符的SBI接口进一步封装，实现更强大的格式化输出
 */
 
 use crate::sbi::console_putchar;
